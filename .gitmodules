@@ -1,0 +1,18 @@
+[submodule "MiniMind/code"]
+	path = MiniMind/code
+	url = https://github.com/jingyaogong/minimind.git
+[submodule "MiniMind/model"]
+	path = MiniMind/model
+	url = https://huggingface.co/jingyaogong/MiniMind2
+[submodule "MiniMind/dataset"]
+	path = MiniMind/dataset
+	url = https://huggingface.co/datasets/jingyaogong/minimind_dataset
+[submodule "MiniMind-V/code"]
+	path = MiniMind-V/code
+	url = https://github.com/jingyaogong/minimind-v.git
+[submodule "MiniMind-V/model"]
+	path = MiniMind-V/model
+	url = https://huggingface.co/jingyaogong/MiniMind2-V
+[submodule "MiniMind-V/dataset"]
+	path = MiniMind-V/dataset
+	url = https://huggingface.co/datasets/jingyaogong/minimind-v_dataset
